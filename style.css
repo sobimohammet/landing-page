@@ -73,3 +73,31 @@ a {
     width: 84vw;
     margin-bottom: 6vh;
 }
+.img {
+    width: 18vw;
+    height: auto;
+    border-radius: 2vw;
+}
+.info {
+    font-weight: 700;
+    font-size: 30px;
+}
+.content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vh;
+}
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    gap: 4vw;
+    margin-top: 4vh;
+}
+.elt div {
+    text-align: center;
+}
